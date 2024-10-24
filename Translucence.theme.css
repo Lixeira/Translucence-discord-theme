@@ -15,7 +15,7 @@
 :root {
   --app-bg: url(https://raw.githubusercontent.com/Lixeira/Translucence-discord-theme/refs/heads/master/assets/background.svg);
   --app-blur: 4px;
-  --app-margin: 5px;
+  --app-margin: 0px;
   --app-radius: 6px; /*	-	*/
 
   --accent-hue: 156;
