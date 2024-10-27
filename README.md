@@ -10,7 +10,7 @@ Current version: v1.0.6.3 (26/02/2021)
 
 Vencord link
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
+https://raw.githubusercontent.com/Lixeira/Translucence-discord-theme/refs/heads/master/Translucence.theme.css
 ```
 
 ## Previews
